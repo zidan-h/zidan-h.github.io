@@ -1,7 +1,4 @@
 
-  function showAlert() {
-    alert("Guess so, huh.");
-  }
 // Set the initial index for the slideshow
 var currentIndex = 0;
 
