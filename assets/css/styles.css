@@ -1,0 +1,15 @@
+#dropdownContent {
+    display: none;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-top: 10px;
+}
+
+#toggleButton {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
